@@ -1,0 +1,19 @@
+{
+  "name": "functional-library",
+  "version": "0.1.0",
+  "description": "My take on a functional utility library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elijahdorman/functional-library.git"
+  },
+  "author": "Elijah Dorman",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/elijahdorman/functional-library/issues"
+  },
+  "homepage": "https://github.com/elijahdorman/functional-library#readme"
+}
